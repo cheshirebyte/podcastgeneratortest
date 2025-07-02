@@ -1,5 +1,5 @@
-name: "PodcastGeneratorTest"
-author: "InkStainedCode"
+name: "Test-PodcastGenerator"
+author: "CheshireByte"
 description: "Generates a feed for podcast from YAML file"
 runs: 
   using: "docker"
